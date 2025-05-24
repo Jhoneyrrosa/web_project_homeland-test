@@ -10,16 +10,22 @@
 
 .page__main-title {
   width: 780px;
-  margin: 0 auto;
+  margin: 90px auto 0;
   font-weight: 900;
   font-size: 96px;
-  line-height: 100px;
+  line-height: 1;
   letter-spacing: 0%;
 }
 
 .page__main-subtitle {
   width: 710px;
-  margin: 20px auto 35px;
+  margin: 32px auto 64px;
   font-weight: 400;
+  line-height: 1.2;
   font-size: 30px;
+}
+
+.page__image-main {
+  width: 100%;
+  margin: 0 auto;
 }
